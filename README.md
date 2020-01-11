@@ -24,4 +24,4 @@ connection.inbox.query({
 })
 ```
 
-Influenced from the other repositories of the (strophejs-plugins)[https://github.com/strophe/strophejs-plugins] 
+Influenced from the other repositories of the [strophejs-plugins](https://github.com/strophe/strophejs-plugins) 
