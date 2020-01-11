@@ -1,0 +1,16 @@
+{
+  "name": "strophejs-plugin-inbox",
+  "version": "1.0.0",
+  "description": "A strophe.js plugin for mod_inbox in the MongooseIM XMPP Server",
+  "main": "strophe.inbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "strophe.js",
+    "inbox",
+    "mongooseim"
+  ],
+  "author": "Arunkumar Muthusamy",
+  "license": "MIT"
+}
